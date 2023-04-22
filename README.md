@@ -1,1 +1,2 @@
-# python-MVC_2
+# Tener en cuenta antes...
+Subir el archivo .sql de la carpeta **Base de datos** a un servidor local usando phpMyAdmin con el nombre de "bd_energias"
